@@ -5,3 +5,5 @@ lineb
 a
 b
 c
+
+append
